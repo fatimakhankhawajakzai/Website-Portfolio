@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background-color: black;
+  color: white;
+}
+
+.App {
+  overflow-x: hidden;
+}
+
+h1, h2 {
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: 1px;
+}
+
+a {
+  color: #ff914d;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: #ff6a2b;
+}
